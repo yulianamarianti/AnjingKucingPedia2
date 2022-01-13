@@ -8,7 +8,10 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.anjingkucingpedia.model.Anjing;
+import com.example.anjingkucingpedia.model.Ayam;
 import com.example.anjingkucingpedia.model.Hewan;
+import com.example.anjingkucingpedia.model.Kucing;
 
 public class ProfilActivity extends AppCompatActivity {
     Hewan hewan;
@@ -33,7 +36,13 @@ public class ProfilActivity extends AppCompatActivity {
     }
     private void tampilkanProfil(Hewan hewan) {
         Log.d("Profil", "Menampilkan" + hewan.getJenis());
-        txJudul.setText(hewan.getJenis());
+        if(hewan instanceof Anjing){
+            txJudul.setText(getString(R.string.jenis_Anjing));
+        }else if(hewan instanceof Ayam){
+            txJudul.setText(getString(R.string.jenis_Ayam));
+        }else if (hewan instanceof Kucing){
+            txJudul.setText(getString(R.string.jenis_Kucing));
+        }
         txJenis.setText(hewan.getRas());
         txAsal.setText(hewan.getAsal());
         txDeskripsi.setText(hewan.getDeskripsi());

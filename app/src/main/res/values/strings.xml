@@ -1,3 +1,66 @@
 <resources>
     <string name="app_name">AnjingKucingPedia</string>
+
+    // data hewan
+    <string name="bulldog_nama">Bulldog</string>
+    <string name="bulldog_asal">Inggris</string>
+    <string name="buldog_deskrrripsi">Anjing populer yang dikenal dengan badan yang gemuk berotot, wajah seperti kain kusut, dan hidung yang pesek</string>
+    <string name="Husky_nama">Husky</string>
+    <string name="Husky_asal">Alaska,Siberia,Finlandia (daerah bersalju)</string>
+    <string name="Husky_deskripsi">Anjing jenis khusus yang awalnya digunakan untuk menarik kereta salju</string>
+    <string name="Kintamani_nama">Kintamani</string>
+    <string name="Kintamani_asal">Indonesia</string>
+    <string name="Kintamani_deskripsi">Ras anjing asli pulau Bali</string>
+    <string name="Samoyed_nama">Samoyed</string>
+    <string name="Samoyed_asal">Rusia</string>
+    <string name="Samoyed_deskripsi">njing yang berasal dari Siberia yang awalnya biasa digunakan untuk menjaga ternak oleh suku Samoyed</string>
+    <string name="Shepherd_nama">Shepherd</string>
+    <string name="Shepherd_asal">Jerman</string>
+    <string name="Shepherd_deskripsi">Anjing pintar dan kuat, sekarang banyak digunakan sebagai anjing penjaga, pengawal, dan anjing polisi (K9)</string>
+    <string name="Shiba_nama">Shiba</string>
+    <string name="Shiba_asal">Jepang</string>
+    <string name="Shiba_deskripsi">Anjing dari daerah Shiba ini gesit dan lincah sehingga awalnya banyak digunakan untuk berburu</string>
+    <string name="Kalkun_nama">Kalkun</string>
+    <string name="Kalkun_asal">Turki</string>
+    <string name="Kalkun_deskripsi">Ayam yang berasal dari Turki ini berkaki pendek dan ditemukan lebi dari 400 tahun lalu</string>
+    <string name="Katek_nama">Katek</string>
+    <string name="Katek_asal">Jawa</string>
+    <string name="Katek_deskripsi">Ayam Katek pertama kali ditemukan oleh para pedagang Eropa, dimana ayam ini memiliki kaki yang pendek sehingga terlihat mungil sekali </string>
+    <string name="Cemani_nama">Cemani</string>
+    <string name="Cemani_asal">Jawa Tengah</string>
+    <string name="Cemani_deskripsi">Ayam yang sekujur badannya termasuk bulu dan darahnya berwarna hitam. ayam ini terbilang langka namuun peminatnya tak pernah sedikit</string>
+    <string name="Angora_nama">Angora</string>
+    <string name="Angora_asal">Turki</string>
+    <string name="Angora_deskripsi">Aslinya berasal dari Ankara, Turki dengan ciri khas berbulu panjang dan lembut</string>
+    <string name="Bengal_nama">Bengal</string>
+    <string name="Bengal_asal">Inggris</string>
+    <string name="Bengal_deskripsi">Merupakan hasil persilangan antara Kucing Leopard Asia dengan kucing domestik Inggris</string>
+    <string name="Birmani_nama">Birmani</string>
+    <string name="Birmani_asal">Birma/Myanmar</string>
+    <string name="Birmani_deskripsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma</string>
+    <string name="Persia_nama">Persia</string>
+    <string name="Persia_asal">Iran</string>
+    <string name="Persia_deskripsi">Kucing berbulu panjang dengan wajah bundar dan hidung pesek. Awalnya berasal dari Iran kemudian diimpor ke Italia</string>
+    <string name="Siam_nama">Siam</string>
+    <string name="Siam_asal">Thailand</string>
+    <string name="Siam_deskripsi">Kucing hasil turunan dari Wichian Maat (Kucing Thailand) dengan ciri khas berbadan panjang dan langsing, wajah lonjong, telinga lebar, dan mata kebiruan</string>
+    <string name="Siberia_nama">Siberia</string>
+    <string name="Siberia_asal">Rusia</string>
+    <string name="Sibersia_deskripsi">Kucing domestik Rusia dengan bulu lebat dan badan besar tapi sangat lincah dan terkenal dengan kemampuan melompatnya</string>
+
+
+    //Judul
+    <string name="judul_list_Anjing">DAFTAR RAS ANJING</string>
+    <string name="judul_list_Kucing">DAFTAR RAS KUCING</string>
+    <string name="judul_list_Ayam">DAFTAR RAS AYAM</string>
+    <string name="judul_main">DAFTAR HEWAN</string>
+
+    //Jenis
+    <string name="jenis_Anjing">Anjing</string>
+    <string name="jenis_Kucing">Kucing</string>
+    <string name="jenis_Ayam">Ayam</string>
+
+    //String
+    <string name="notif">Tekan Gambar Untuk Membuka Galeri</string>
+
 </resources>
